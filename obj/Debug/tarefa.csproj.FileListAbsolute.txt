@@ -1,0 +1,12 @@
+C:\Users\Maria Amélia\Desktop\tarefa\tarefa\bin\Debug\tarefa.exe.config
+C:\Users\Maria Amélia\Desktop\tarefa\tarefa\obj\Debug\tarefa.csprojResolveAssemblyReference.cache
+C:\Users\Maria Amélia\Desktop\tarefa\tarefa\bin\Debug\tarefa.exe
+C:\Users\Maria Amélia\Desktop\tarefa\tarefa\bin\Debug\tarefa.pdb
+C:\Users\Maria Amélia\Desktop\tarefa\tarefa\obj\Debug\tarefa.exe
+C:\Users\Maria Amélia\Desktop\tarefa\tarefa\obj\Debug\tarefa.pdb
+D:\tarefa\tarefa\bin\Debug\tarefa.exe.config
+D:\tarefa\tarefa\obj\Debug\tarefa.exe
+D:\tarefa\tarefa\obj\Debug\tarefa.pdb
+D:\tarefa\tarefa\bin\Debug\tarefa.exe
+D:\tarefa\tarefa\bin\Debug\tarefa.pdb
+D:\tarefa\tarefa\obj\Debug\tarefa.csprojResolveAssemblyReference.cache
